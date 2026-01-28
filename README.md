@@ -3,6 +3,9 @@
 A simple educational HTML page (Lab 1) that demonstrates basic structure and common elements:
 headings, paragraphs, highlighted text, ordered/unordered lists, and an embedded image.
 
+## 🌐 Live Demo
+👉 https://kiroloskhairy.com/web-basics-lab1/
+
 ## Preview
 Open `index.html` in any browser.
 
